@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+  <head>
+    <title>Apple</title>
+  </head>
+  <body>
+    <outline text="Apple" title="Apple">
+      <outline type="rss" text="Cult of Mac" title="Cult of Mac Title" xmlUrl="http://feeds.feedburner.com/cultofmac/bFow" htmlUrl="http://www.cultofmac.com"/>
+      <outline type="rss" text="MacRumors: Mac News and Rumors - Front Page" title="MacRumors: Mac News and Rumors - Front Page" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="http://www.macrumors.com"/>
+      <outline type="rss" text="AppleInsider" title="AppleInsider" xmlUrl="http://appleinsider.com/rss/feedly_wwdc" htmlUrl="http://appleinsider.com"/>
+      <outline type="rss" text="MacTrast" title="MacTrast" xmlUrl="http://www.mactrast.com/feed/"/>
+    </outline>
+  </body>
+</opml>

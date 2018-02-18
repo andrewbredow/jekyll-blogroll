@@ -1,5 +1,10 @@
 require "bundler/setup"
+require "pry"
+
 require "jekyll/blogroll"
+require "jekyll/blogroll/opml_document"
+
+RSPEC_ROOT = File.dirname __FILE__
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
